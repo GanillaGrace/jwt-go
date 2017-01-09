@@ -1,7 +1,7 @@
 package request
 
 import (
-	"github.com/dgrijalva/jwt-go"
+	"github.com/GanillaGrace/jwt-go"
 	"net/http"
 )
 
